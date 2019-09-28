@@ -1,3 +1,8 @@
+## Preview
+Netlify: [https://eventbrite-api.netlify.com/](https://eventbrite-api.netlify.com/)
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
